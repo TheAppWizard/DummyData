@@ -11,7 +11,7 @@
         "currency": "USD",
         "in_stock": true,
         "rating": 4.5,
-        "image_url": "https://placehold.co/600x400"
+        "image_url": "https://dummyimage.com/hd1080"
       },
       {
         "id": 2,
@@ -21,7 +21,7 @@
         "currency": "USD",
         "in_stock": false,
         "rating": 4.8,
-        "image_url": "https://placehold.co/600x400"
+        "image_url": "https://dummyimage.com/hd1080"
       },
       {
         "id": 3,
@@ -31,7 +31,7 @@
         "currency": "USD",
         "in_stock": true,
         "rating": 4.2,
-        "image_url": "https://placehold.co/600x400"
+        "image_url": "https://dummyimage.com/hd1080"
       }
     ]
   }
