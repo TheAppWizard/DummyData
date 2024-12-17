@@ -1,2 +1,1 @@
-# DummyData
-DummyData : Flutter GetX Project
+# DummyData : Flutter GetX Project
