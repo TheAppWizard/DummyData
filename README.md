@@ -55,6 +55,7 @@ class ApiService {
 }
 ```
 ### Step 2. Create Response Model (`dummy_model.dart`)
+- [QuickType]([https://pub.dev/packages/get](https://app.quicktype.io)) for Creating Model
 ```dart
 // To parse this JSON data, do
 //
@@ -339,6 +340,10 @@ class DummyView extends StatelessWidget {
 }
 ```
 
+##Results
+![results](https://github.com/user-attachments/assets/38819ef0-7137-4c75-bd5a-6a002ae85f4b)
+
 ## Acknowledgments
 - [GetX](https://pub.dev/packages/get) for state management
 - [http](https://pub.dev/packages/http) for API requests
+
