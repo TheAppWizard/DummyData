@@ -192,6 +192,8 @@ class DummyController extends GetxController {
   final ApiService _apiService = ApiService();
 
   var isLoading = true.obs;
+
+  ///Initial State of Model
   var dummyModel = DummyModel(
     statusCode: 0,
     statusMessages: '',
