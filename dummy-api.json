@@ -1,0 +1,38 @@
+{
+  "statusCode" : 200,
+  "statusMessages": "success",
+  "data": {
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with USB receiver.",
+        "price": 25.99,
+        "currency": "USD",
+        "in_stock": true,
+        "rating": 4.5,
+        "image_url": "https://placehold.co/600x400"
+      },
+      {
+        "id": 2,
+        "name": "Gaming Keyboard",
+        "description": "Mechanical RGB gaming keyboard.",
+        "price": 79.99,
+        "currency": "USD",
+        "in_stock": false,
+        "rating": 4.8,
+        "image_url": "https://placehold.co/600x400"
+      },
+      {
+        "id": 3,
+        "name": "Smartphone Stand",
+        "description": "Adjustable smartphone stand for desk use.",
+        "price": 10.50,
+        "currency": "USD",
+        "in_stock": true,
+        "rating": 4.2,
+        "image_url": "https://placehold.co/600x400"
+      }
+    ]
+  }
+}
