@@ -55,7 +55,9 @@ class ApiService {
 }
 ```
 ### Step 2. Create Response Model (`dummy_model.dart`)
-[QuickType]([https://pub.dev/packages/get](https://app.quicktype.io)) for Creating Model
+
+[QuickType](https://pub.dev/packages/get](https://app.quicktype.io)  for Creating Model
+
 ```dart
 // To parse this JSON data, do
 //
